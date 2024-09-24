@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WXNetArchitecture</string>
+
+    <!-- 异常错误提示  by Atar start -->
+    <string name="ElseNetException">未知错误异常</string>
+    <string name="SocketTimeoutException">网络超时</string>
+    <string name="TimeoutException">网络超时</string>
+    <string name="SocketException">网络错误</string>
+    <string name="ConnectException">网络错误</string>
+    <string name="HttpException">服务器异常</string>
+    <string name="UnknownHostException">无网络连接</string>
+    <string name="HostBaseUrlError">请求地址错误</string>
+    <string name="Mobilenetuseless_msg">当前网络不可用</string>
+    <string name="failed_to_connect_to">无法连接到服务器</string>
+    <string name="JsonSyntaxException">数据错误,json解析错误</string>
+    <!-- 异常错误提示  by end  -->
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../work_software/gradle-7.1-bin/gradle-7.1" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/NetworkApiData" />
+            <option value="$PROJECT_DIR$/annotation_compiler" />
+            <option value="$PROJECT_DIR$/app_wx1" />
+            <option value="$PROJECT_DIR$/app_wx2" />
+            <option value="$PROJECT_DIR$/app_wx3" />
+            <option value="$PROJECT_DIR$/app_wx4" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "WXNetArchitecture"
+include ':app_wx1'
+include ':app_wx2'
+include ':app_wx3'
+include ':app_wx4'
+include ':annotation_compiler'
+include ':NetworkApiData'
