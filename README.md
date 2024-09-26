@@ -556,16 +556,22 @@ class MainViewModel : BaseViewModel() {
 4.  **花式玩法4**：我连花式玩法3中的接口类 **`INetApiRepository`** 都不需要了，直接反射搞定所有。
 5. 同时可以学习到，**注解、反射、泛型、注解处理器、动态代理**
 
-## 七、我的其他开源工程
-####  [插件内部详细介绍](https://juejin.cn/post/7368397264026370083)
-####  [接入详细指南](https://juejin.cn/post/7372393698230550565)
-####  [大型项目架构：全动态插件化+模块化+Kotlin+协程+Flow+Retrofit+JetPack+MVVM+极限瘦身+极限启动优化+架构示例+全网唯一](https://juejin.cn/post/7381787510071934985)
-####  [大型项目架构：解析全动态插件化框架WXDynamicPlugin是如何做到全动态化的？](https://juejin.cn/post/7388891131037777929)
-####  [还在不断升级发版吗？从0到1带你看懂WXDynamicPlugin全动态插件化框架？](https://juejin.cn/post/7412124636239904819)
+## 七、我的其他开源
+#### [Kotlin+协程+Flow+Retrofit+OkHttp这么好用，不运行安装到手机可以调试接口吗?可以自己搭建一套网络请求工具](https://juejin.cn/post/7406675078810910761)
+#### [花式封装：Kotlin+协程+Flow+Retrofit+OkHttp +Repository，倾囊相授,彻底减少模版代码进阶之路](https://juejin.cn/post/7417847546323042345)
+#### [注解处理器在架构，框架中实战应用：MVVM中数据源提供Repository类的自动生成](https://juejin.cn/post/7392258195089162290)
+
+## 八、我的全动态插件化框架WXDynamicPlugin介绍文章：
+#### [(一) 插件化框架开发背景：零反射，零HooK,全动态化，插件化框架，全网唯一结合启动优化的插件化架构](https://juejin.cn/post/7347994218235363382)
+#### [(二）插件化框架主要介绍：零反射，零HooK,全动态化，插件化框架，全网唯一结合启动优化的插件化架构](https://juejin.cn/post/7367676494976532490)
+#### [(三）插件化框架内部详细介绍: 零反射，零HooK,全动态化，插件化框架，全网唯一结合启动优化的插件化架构](https://juejin.cn/post/7368397264026370083)
+#### [(四）插件化框架接入详细指南：零反射，零HooK,全动态化，插件化框架，全网唯一结合启动优化的插件化架构](https://juejin.cn/post/7372393698230550565)
+#### [(五) 大型项目架构：全动态插件化+模块化+Kotlin+协程+Flow+Retrofit+JetPack+MVVM+极限瘦身+极限启动优化+架构示例+全网唯一](https://juejin.cn/post/7381787510071934985)
+#### [(六) 大型项目架构：解析全动态插件化框架WXDynamicPlugin是如何做到全动态化的？](https://juejin.cn/post/7388891131037777929)
+#### [(七) 还在不断升级发版吗？从0到1带你看懂WXDynamicPlugin全动态插件化框架？](https://juejin.cn/post/7412124636239904819)
 
 #### 感谢阅读，欢迎给给个星，你们的支持是我开源的动力
 ## 欢迎光临：
-#### * **[我的另一个插件示例工程（WXMusic 在线音乐）](https://juejin.cn/post/7347994218235363382)**
 
 #### * **[我的掘金地址](https://juejin.cn/user/356661835082573)**   
     
