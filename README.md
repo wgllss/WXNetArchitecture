@@ -557,6 +557,7 @@ class MainViewModel : BaseViewModel() {
 5. 同时可以学习到，**注解、反射、泛型、注解处理器、动态代理**
 
 ## 七、我的其他开源
+#### [那些大厂架构师是怎样封装网络请求的？](https://juejin.cn/post/7435904232597372940)
 #### [Kotlin+协程+Flow+Retrofit+OkHttp这么好用，不运行安装到手机可以调试接口吗?可以自己搭建一套网络请求工具](https://juejin.cn/post/7406675078810910761)
 #### [花式封装：Kotlin+协程+Flow+Retrofit+OkHttp +Repository，倾囊相授,彻底减少模版代码进阶之路](https://juejin.cn/post/7417847546323042345)
 #### [注解处理器在架构，框架中实战应用：MVVM中数据源提供Repository类的自动生成](https://juejin.cn/post/7392258195089162290)
