@@ -11,6 +11,7 @@
       <module name="WXNetArchitecture.app_wx2" target="17" />
       <module name="WXNetArchitecture.app_wx3" target="17" />
       <module name="WXNetArchitecture.app_wx4" target="17" />
+      <module name="WXNetArchitecture.app_wx_switch_net" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
