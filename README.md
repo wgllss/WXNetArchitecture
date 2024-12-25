@@ -556,13 +556,8 @@ class MainViewModel : BaseViewModel() {
 4.  **花式玩法4**：我连花式玩法3中的接口类 **`INetApiRepository`** 都不需要了，直接反射搞定所有。
 5. 同时可以学习到，**注解、反射、泛型、注解处理器、动态代理**
 
-## 七、我的其他开源
-#### [那些大厂架构师是怎样封装网络请求的？](https://juejin.cn/post/7435904232597372940)
-#### [Kotlin+协程+Flow+Retrofit+OkHttp这么好用，不运行安装到手机可以调试接口吗?可以自己搭建一套网络请求工具](https://juejin.cn/post/7406675078810910761)
-#### [花式封装：Kotlin+协程+Flow+Retrofit+OkHttp +Repository，倾囊相授,彻底减少模版代码进阶之路](https://juejin.cn/post/7417847546323042345)
-#### [注解处理器在架构，框架中实战应用：MVVM中数据源提供Repository类的自动生成](https://juejin.cn/post/7392258195089162290)
 
-## 八、我的全动态插件化框架WXDynamicPlugin介绍文章：
+## 七、我的全动态插件化框架WXDynamicPlugin介绍文章：
 #### [(一) 插件化框架开发背景：零反射，零HooK,全动态化，插件化框架，全网唯一结合启动优化的插件化架构](https://juejin.cn/post/7347994218235363382)
 #### [(二）插件化框架主要介绍：零反射，零HooK,全动态化，插件化框架，全网唯一结合启动优化的插件化架构](https://juejin.cn/post/7367676494976532490)
 #### [(三）插件化框架内部详细介绍: 零反射，零HooK,全动态化，插件化框架，全网唯一结合启动优化的插件化架构](https://juejin.cn/post/7368397264026370083)
@@ -575,10 +570,44 @@ class MainViewModel : BaseViewModel() {
 #### [(十) 5种常见Android的SDK开发的方式，你知道几种？ ](https://juejin.cn/post/7431088937278947391)
 #### [(十一) 5种WebView混合开发动态更新方式，直击痛点，有你想要的？ ](https://juejin.cn/post/7433288965942165558)
 #### [(十二) Compose的全动态插件化框架支持了，已更新到AGP 8.6,Kotlin2.0.20,支持Compose](https://juejin.cn/post/7435587382345482303)
+
+## 八、作者开源 Compose可视化图表库
+
+#### [(一)Compose曲线图表库WXChart，你只需要提供数据配置就行了](https://juejin.cn/post/7438835112790605865 "https://juejin.cn/post/7438835112790605865")\
+
+#### [(二)Compose折线图，贝赛尔曲线图，柱状图，圆饼图，圆环图。带动画和点击效果](https://juejin.cn/post/7442228138501259283 "https://juejin.cn/post/7442228138501259283")\
+
+#### [(三)全网最火视频，Compose代码写出来，动态可视化趋势视频，帅到爆](https://juejin.cn/post/7449238845214244875 "https://juejin.cn/post/7449238845214244875")\
+
+#### [(四)全网最火可视化趋势视频实现深度解析，同时新增条形图表](https://juejin.cn/post/7449910229573943350)
+
+## 九、本人其他开源文章：
+
+#### [那些大厂架构师是怎样封装网络请求的？](https://juejin.cn/post/7435904232597372940)
+
+#### [Kotlin+协程+Flow+Retrofit+OkHttp这么好用，不运行安装到手机可以调试接口吗?可以自己搭建一套网络请求工具](https://juejin.cn/post/7406675078810910761)
+
+#### [花式封装：Kotlin+协程+Flow+Retrofit+OkHttp +Repository，倾囊相授,彻底减少模版代码进阶之路](https://juejin.cn/post/7417847546323042345)
+
+#### [注解处理器在架构，框架中实战应用：MVVM中数据源提供Repository类的自动生成](https://juejin.cn/post/7392258195089162290)
+
+#### [Android串口，USB，打印机，扫码枪，支付盒子，键盘，鼠标，U盘等开发使用一网打尽](https://juejin.cn/post/7439231301869305910)
+
+#### [多台Android设备局域网下的数据备份如何实现？](https://juejin.cn/post/7444378661934055464)
+
+#### [轻松搞定Android蓝牙打印机，双屏异显及副屏分辨率适配解决办法](https://juejin.cn/post/7446820939943428107)
+
+#### [一个Kotlin版Demo带你入门JNI,NDK编程](https://juejin.cn/post/7452181029996380171)
+
 #### 感谢阅读，欢迎给给个星，你们的支持是我开源的动力
+
 ## 欢迎光临：
 
-#### * **[我的掘金地址](https://juejin.cn/user/356661835082573)**   
+#### **[我的掘金地址](https://juejin.cn/user/356661835082573)**
+
+#### 关于我
+
+**VX号：wgllss**  ,如果想更多交流请加我VX
     
     
     
