@@ -599,6 +599,22 @@ class MainViewModel : BaseViewModel() {
 
 #### [一个Kotlin版Demo带你入门JNI,NDK编程](https://juejin.cn/post/7452181029996380171)
 
+#### [元宵节前福利，神之操作，一键下载想要的同类型多个图片？？](https://juejin.cn/post/7469991575277207602)
+
+#### [如何拦截其他Android应用程序播放器的原始音频数据自定义保存下来？](https://juejin.cn/post/7459720128983351337)
+
+#### [Android拦截其它播放声音：内录音，外录音，录屏，剪辑，混音，一键制作大片全搞定](https://juejin.cn/post/7472223022192836659)
+
+#### [Android之Apk全面瘦身，极致瘦身优化](https://juejin.cn/post/7483439484052258853)
+
+#### [电影电视剧网红广告屏自动轮播介绍视频特效制作，Compose轻松实现](https://juejin.cn/post/7491241868861554726)
+
+#### [Android下载进度百分比按钮，Compose轻松秒杀实现](https://juejin.cn/post/7493449430789095476)
+
+#### [Android监听开机自启，是否在前后台，锁屏界面，息屏后自动亮屏，一直保持亮屏](https://juejin.cn/post/7494083990069444648)
+
+#### [Android图片处理:多合一，多张生成视频，裁剪，滤镜色调，饱和度，亮度，缩放调整](https://juejin.cn/post/7496344493705510927)
+
 #### 感谢阅读，欢迎给给个星，你们的支持是我开源的动力
 
 ## 欢迎光临：
